@@ -2,7 +2,7 @@
 
 The official repository for Oregon State University's CS 162 in-person SI table.  This contains folders with C++ activities relating to memory, OOP, etc.
 
-Use this repository to access all of the activities and resources for the CS 162 SI table for Winter 2023!
+Use this repository to access all of the activities and resources for the CS 162 SI table for Fall 2024!
 
 ## Downloading a folder from GitHub
 To download a folder from this repository, please use [the following guide](https://www.wikihow.com/Download-a-GitHub-Folder).
