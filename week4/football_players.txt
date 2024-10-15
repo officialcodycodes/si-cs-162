@@ -1,0 +1,6 @@
+5
+Justin_Herbert QB 103
+Marshawn_Lynch RB 95
+Travis_Kelce TE 75
+Julian_Edelman WR 41
+Jerry_Rice WR 208
