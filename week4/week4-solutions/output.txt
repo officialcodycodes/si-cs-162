@@ -1,0 +1,19 @@
+# of players: 6
+Name: Justin_Herbert
+Position: QB
+Touchdowns: 103
+Name: Marshawn_Lynch
+Position: RB
+Touchdowns: 95
+Name: Travis_Kelce
+Position: TE
+Touchdowns: 75
+Name: Julian_Edelman
+Position: WR
+Touchdowns: 41
+Name: Jerry_Rice
+Position: WR
+Touchdowns: 208
+Name: Cody
+Position: QB
+Touchdowns: 1
