@@ -8,8 +8,8 @@ using namespace std;
 and area() function*/
 
 Shape::Shape(){
-    this->name = NULL;
-    this->color = NULL;
+    this->name = "shape";
+    this->color = "red";
 }
 
 Shape::Shape(string name, string color){
@@ -17,11 +17,6 @@ Shape::Shape(string name, string color){
     this->color = color;
 }
 
-Shape::~Shape(){
-    this->name = NULL;
-    this->color = NULL;
-}
-
-string Shape::get_name() const{
+string Shape::get_name(){
     return this->name;
 }
