@@ -11,7 +11,7 @@ class Shape{
         string color;
     public:
         // should have constructors, accessors, mutators, as appropriate
-        Shape()
+        Shape();
 };
 
 #endif
